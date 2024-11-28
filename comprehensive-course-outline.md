@@ -2,9 +2,16 @@
 
 ## Prerequisites & Setup
 - [] GitHub account creation and basic Git knowledge
+   - [] [Getting Started with Git and GitHub](https://www.coursera.org/learn/getting-started-with-git-and-github/home/module/1)
+   - [] [introduction-to-github](https://github.com/skills/introduction-to-github)
 - [] Development environment setup
 - [] Basic computer literacy
-- [] High school mathematics proficiency
+   - [] [Computers and the Internet](https://www.khanacademy.org/computing/computers-and-internet)
+   - [] [Computer science theory](https://www.khanacademy.org/computing/computer-science)
+   - [] [Code.org](https://www.khanacademy.org/computing/code-org)
+   - [] [Try an Hour of Code™ with Khan Academy](https://www.khanacademy.org/hourofcode)
+   - [] [Intro to computer science - Python](https://www.khanacademy.org/computing/intro-to-python-fundamentals)
+- [] High school mathematics proficiency [Khan Academy.org/math](https://www.khanacademy.org/math)
 
 
 ## Year 1: Foundations
@@ -26,6 +33,7 @@
    - [] [Parallel & Sequential Algorithms](https://www.diderot.one/courses/121)
    - [] [Functional Data Structures](https://cs.uwaterloo.ca/~plragde/flaneries/FDS/)
    - [] [CompTIA SYO-701 Security+ Training Course Professor Messer](https://www.youtube.com/playlist?list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv)
+   - [] [AP®︎/College Computer Science Principles](https://www.khanacademy.org/computing/ap-computer-science-principles)
 
    - Projects:
      - [] [Space Invaders problem](https://github.com/ossu/spd-starters/blob/main/final/space-invaders-starter.rkt)[Instructions](https://github.com/Rmiddaugh10/computer-science/blob/master/coursepages/spd/space-invaders-instructions.png)[Sample Run](https://www.youtube.com/shorts/wUg3psZl7vM)
@@ -204,6 +212,22 @@
 4. **Mobile Software Development**
    - [] Primary: [University of Maryland Coursera](https://www.coursera.org/course/androidpart1)
    - [] Secondary: [Udacity UD585](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585)
+   - [] [Introduction to Android Mobile Application Development](https://www.coursera.org/learn/introduction-to-android-mobile-application-development/home/module/2)
+   - [] [Version Control](https://www.coursera.org/learn/introduction-to-version-control/home/module/1)
+   - [] [Programming Fundamentals in Kotlin](https://www.coursera.org/learn/meta-programming-fundamentals-kotlin/home/module/1)
+   - [] [Advanced Programming in Kotlin](https://www.coursera.org/learn/advanced-programming-in-kotlin/home/module/1)
+   - [] [React Basics](https://www.coursera.org/learn/react-basics/home/module/1)
+   - [] [Create the User Interface in Android Studio](https://www.coursera.org/learn/create-the-user-interface-android-studio/home/module/1)
+   - [] [Working with Data in Android](https://www.coursera.org/learn/working-with-data-in-android/home/module/1)
+   - [] [React Native](https://www.coursera.org/learn/react-native-course/home/module/1)
+   - [] [Principles of UX/UI Design](https://www.coursera.org/learn/principles-of-ux-ui-design/home/module/1)
+   - [] [Mobile Development and JavaScript](https://www.coursera.org/learn/mobile-development-and-javascript/home/module/1)
+   - [] [Android App Capstone](https://www.coursera.org/learn/android-app-capstone/home/module/1)
+   - [] [Engineering Maintainable Android Apps](https://www.coursera.org/learn/engineeringandroidapps/home/module/1)
+   - [] [Get Started with Android App Development](https://www.coursera.org/learn/get-started-with-android-app-development/home/module/1)
+   - [] [Introduction to Mobile App Development](https://www.coursera.org/learn/introduction-to-mobile-app-development/home/module/1)
+   - [] [React Native: Developing Android and iOS Apps](https://www.coursera.org/learn/react-native-developing-android-and-ios-apps/home/module/1)
+
 
 5. **Programming Languages and Compilers**
    - [] Primary: [UC Berkeley CS164](https://inst.eecs.berkeley.edu/~cs164/archives.html)
