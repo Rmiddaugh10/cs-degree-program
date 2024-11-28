@@ -12,3 +12,63 @@ Date: 11/27/2024 - 12/4/2024
 
 ## Questions/Problems
 -
+
+# Week 2 Progress Report
+Date:
+
+# What I Did This Week
+
+
+## What I Plan to Do Next Week
+
+
+## Questions/Problems
+-
+
+# Week 3 Progress Report
+Date:
+
+## What I Did This Week
+
+
+## What I Plan to Do Next Week
+
+
+## Questions/Problems
+-
+
+# Week 4 Progress Report
+Date:
+
+## What I Did This Week
+
+
+## What I Plan to Do Next Week
+
+
+## Questions/Problems
+-
+
+# Week 5 Progress Report
+Date:
+
+## What I Did This Week
+
+
+## What I Plan to Do Next Week
+
+
+## Questions/Problems
+-
+
+# Week 6 Progress Report
+Date:
+
+## What I Did This Week
+
+
+## What I Plan to Do Next Week
+
+
+## Questions/Problems
+-
