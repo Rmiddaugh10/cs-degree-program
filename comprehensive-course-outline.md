@@ -6,12 +6,18 @@
 - [] Basic computer literacy
 - [] High school mathematics proficiency
 
+
 ## Year 1: Foundations
+
 ### Semester 1
+
 #### Core Theory
 
 1. **Introduction to Computer Science**
    - [] [Primary: OSSU - Introduction to Programming using Python (MIT)](https://learning.edx.org/course/course-v1:MITx+6.00.1x+2T2018/block-v1:MITx+6.00.1x+2T2018+type@sequential+block@221a4c17dba341d6a970a0d80343253c/block-v1:MITx+6.00.1x+2T2018+type@vertical+block@2fcf0daa9d1346509ce4954eb3ec1c16)
+   - [] [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/weeks/0/)
+   - [] [CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2024/weeks/1/)
+   - [] [CS50’s Introduction to Cybersecurity](https://cs50.harvard.edu/cybersecurity/2023/weeks/0/)
    - [] [Systematic Program Design](https://learning.edx.org/course/course-v1:UBCx+SPD1x+2T2015)
    - [] [Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html)
    - [] [Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/#%28part._materials%29)
@@ -19,6 +25,7 @@
    - [] [Principles of Functional Programming](https://brandonspark.github.io/150/)
    - [] [Parallel & Sequential Algorithms](https://www.diderot.one/courses/121)
    - [] [Functional Data Structures](https://cs.uwaterloo.ca/~plragde/flaneries/FDS/)
+   - [] [CompTIA SYO-701 Security+ Training Course Professor Messer](https://www.youtube.com/playlist?list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv)
 
    - Projects:
      - [] [Space Invaders problem](https://github.com/ossu/spd-starters/blob/main/final/space-invaders-starter.rkt)[Instructions](https://github.com/Rmiddaugh10/computer-science/blob/master/coursepages/spd/space-invaders-instructions.png)[Sample Run](https://www.youtube.com/shorts/wUg3psZl7vM)
@@ -44,6 +51,7 @@
    - [] [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
    - [] Primary: [MIT 6.042J](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
    - [] Secondary: [Carnegie Mellon 15-251](http://www.cs.cmu.edu/~15251/index.html)
+   - [] [MIT 6.042J Mathematics for Computer Science](https://www.youtube.com/watch?v=wIq4CssPoO0&list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ)
 
    - Projects:
      - [] Algorithm visualization tool
@@ -59,7 +67,9 @@
      - [] Simple shell implementation in C
 
 
+
 ### Semester 2
+
 #### Systems & Data
 
 1. **Data Structures**
@@ -80,8 +90,11 @@
      - [] Simple virtual machine
 
 
+
 ## Year 2: Core Computing
+
 ### Semester 1
+
 #### Systems & Theory
 
 1. **Operating Systems**
@@ -97,6 +110,7 @@
    - [] [UC Berkeley CS162 Youtube](https://www.youtube.com/playlist?list=PL3A5075EC94726781&feature=plcp)
    - [] [UC Berkeley CS162 Course Pages](https://inst.eecs.berkeley.edu/~cs162/archives.html)
    - [] [MIT 6.828](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-837-computer-graphics-fall-2012/)
+   - [] [Operating System](https://www.youtube.com/watch?v=vBURTt97EkA&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
 
    - Projects:
      - [] Bomb Lab: [Wrteup](http://csapp.cs.cmu.edu/3e/bomblab.pdf)[Self-Study Handout](https://csapp.cs.cmu.edu/3e/bomb.tar)
@@ -158,8 +172,11 @@
    - [] Primary: [Introduction to Intellectual Property](https://www.coursera.org/learn/introduction-intellectual-property)
    - [] Primary: [Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy)
 
+
 ### Semester 2
+
 #### Software Engineering & Web
+
 1. **Web Development**
    - [] Primary: [UX Design](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)
    - [] Primary: Full Stack Open
@@ -197,8 +214,11 @@
    - [] Primary: [Carnegie Mellon 15-418](http://15418.courses.cs.cmu.edu/spring2015/)
    = [] Primary: [Carnegie Mellon 10-806](http://www.cs.cmu.edu/~ninamf/courses/806/)
 
+
 ## Year 3: Advanced Topics
+
 ### Semester 1
+
 #### Security & Systems
 
 1. **Computer Networks**
@@ -218,7 +238,9 @@
      - [] Encryption implementation
      - [] Network security scanner
 
-### Semester 2
+
+### Semester 2.
+
 #### Theory & Practice
 1. **Theory of Computation**
    - [] Primary: [OSSU recommended course](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)[Alernative](http://aduni.org/courses/theory/index.php?view=cw)
@@ -243,15 +265,21 @@
    - [] [Secure Software Development: Implementation](https://www.edx.org/course/secure-software-development-implementation)
    - [] [Secure Software Development: Verification and More Specialized Topics](https://www.edx.org/course/secure-software-development-verification-and-more-specialized-topics)
 
+
 ## Year 4: Specialization
+
 ### Semester 1
+
 #### Advanced Topics
+
 1. **Programming Languages**
    - [] [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)
    - [] [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b)
    - [] [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)
    - [] [Parallel Programming](https://www.coursera.org/learn/scala-parallel-programming)
+   - [] [Structure and Interpretation of Computer Programs](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/)
    - [] [Compilers](https://www.edx.org/course/compilers)
+   - [] [CS6120: Advanced Compilers: The Self Guided Online Course](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/)
    - [] [Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/)
    - [] [Learn Prolog Now!](https://www.let.rug.nl/bos/lpn//lpnpage.php?pageid=online)[Alernative](https://github.com/ossu/computer-science/files/6085884/lpn.pdf)
    - [] [Software Debugging](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkxK63TiT88oEe-AIBhr96A)
@@ -263,6 +291,8 @@
      - [] Mini compiler
 
 2. **CompTIA PenTest+ Preparation**
+- [] [CompTIA SYO-701 Security+ Training Course Professor Messer](https://www.youtube.com/playlist?list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv)
+
    - [] Penetration testing labs
    - [] Vulnerability assessment practice
    - [] Report writing
@@ -270,6 +300,7 @@
 3. **Advanced Math**
    - [] [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
    - [] [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
+   - [] [MIT 18.06 Linear Algebra](https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PLE7DDD91010BC51F8)
    - [] [Introduction to Numerical Methods](https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/index.htm)
    - [] [Introduction to Formal Logic](https://forallx.openlogicproject.org/)
    - [] [Probability](https://projects.iq.harvard.edu/stat110/home)
@@ -279,7 +310,10 @@
    - [] [Computation Structures 2: Computer Architecture](https://learning.edx.org/course/course-v1:MITx+6.004.2x+3T2015)
    - [] [Computation Structures 3: Computer Organization](https://learning.edx.org/course/course-v1:MITx+6.004.3x_2+1T2017)
 
+
+
 ### Semester 2
+
 #### Capstone & Career
 
 1. **Final Projects**
