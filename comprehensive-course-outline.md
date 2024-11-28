@@ -14,9 +14,6 @@
    - [] [Primary: OSSU - Introduction to Programming using Python (MIT)](https://learning.edx.org/course/course-v1:MITx+6.00.1x+2T2018/block-v1:MITx+6.00.1x+2T2018+type@sequential+block@221a4c17dba341d6a970a0d80343253c/block-v1:MITx+6.00.1x+2T2018+type@vertical+block@2fcf0daa9d1346509ce4954eb3ec1c16)
    - [] [Systematic Program Design](https://learning.edx.org/course/course-v1:UBCx+SPD1x+2T2015)
    - [] [Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html)
-   - [] [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)
-   - [] [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b)
-   - [] [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)
    - [] [Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/#%28part._materials%29)
    - [] [Software Architecture](https://www.coursera.org/learn/software-architecture)
    - [] [Principles of Functional Programming](https://brandonspark.github.io/150/)
@@ -55,6 +52,7 @@
 3. **Programming Fundamentals**
    - [] Primary: [Harvard CS50x](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
    - [] Secondary: [UC Berkeley CS61A](https://cs61a.org/)
+   - [] Secondary: [Programming Languages Theory](https://cs.brown.edu/courses/cs173/2012/OnLine/)
 
    - Projects:
      - [] Build your own interpreter
@@ -130,6 +128,13 @@
      - [] Sorting algorithm visualizer
      - [] Graph algorithm implementation
 
+3. **Core Security**
+   - [] [Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals)
+   - [] [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)
+   - [] [Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities)
+   - [] [Identifying Security Vulnerabilities in C/C++ Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming)
+   - [] [Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications)
+
 3. **Databases**
    - [] Primary: [Stanford DB course]()
    - [] Primary: [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)
@@ -137,7 +142,6 @@
    - [] Primary: [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)
    - [] Primary: [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)
    - [] Primary: [Software Engineering: Introduction](https://www.edx.org/learn/software-engineering/university-of-british-columbia-software-engineering-introduction)
-   - [] Primary: []
 
    - Projects:
      - [] SQL query engine
@@ -157,25 +161,50 @@
 ### Semester 2
 #### Software Engineering & Web
 1. **Web Development**
+   - [] Primary: [UX Design](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)
    - [] Primary: Full Stack Open
+   - [] Primary: [Udacity CS253 Intro to Web Development](https://www.udacity.com/course/web-development--cs253)
+   - [] Secondary: [Introduction to Embedded Systems and Real-Time Systems](http://cms.cs.ucr.edu/faculty/philip/open_source_courses/CS120B_labs.html)[Or](http://cms.cs.ucr.edu/faculty/philip/open_source_courses/CS122A_labs.html)
+
    - Projects:
      - [] Social media clone
      - [] E-commerce platform
      - [] Real-time chat application
 
 2. **Software Engineering**
-   - [] Primary: MIT Software Construction
+   - [] Primary: MIT Software Construction [MIT 1.124J](http://ocw.mit.edu/courses/civil-and-environmental-engineering/1-124j-foundations-of-software-engineering-fall-2000/)
+   - [] Secondary: [UC Berkeley CS169](https://inst.eecs.berkeley.edu/~cs169/archives.html)[Harvard CS164](http://cs164.tv/2014/spring/)
+   - [] Secondary: [Principles of Computing](https://www.coursera.org/course/principlescomputing1)
+
    - Projects:
      - [] Version control system
      - [] Testing framework
      - [] CI/CD pipeline
+
+3. **System Engineering**
+   - [] Primary: [MIT 6.033](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2009/index.htm)
+
+4. **Mobile Software Development**
+   - [] Primary: [University of Maryland Coursera](https://www.coursera.org/course/androidpart1)
+   - [] Secondary: [Udacity UD585](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585)
+
+5. **Programming Languages and Compilers**
+   - [] Primary: [UC Berkeley CS164](https://inst.eecs.berkeley.edu/~cs164/archives.html)
+   - [] Secondary: [MIT 6.035](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005/)
+
+6. **Artificial Intelligence/Parallel Computing/Machine Learning**
+   - [] Primary: [MIT 6.034](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm) [UC Berkeley CS188](https://inst.eecs.berkeley.edu/~cs188/archives.html)
+   - [] Primary: [Carnegie Mellon 15-418](http://15418.courses.cs.cmu.edu/spring2015/)
+   = [] Primary: [Carnegie Mellon 10-806](http://www.cs.cmu.edu/~ninamf/courses/806/)
 
 ## Year 3: Advanced Topics
 ### Semester 1
 #### Security & Systems
 
 1. **Computer Networks**
-   - [] Primary: Stanford Networking
+   - [] Primary: [Stanford Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
+   - [] Secondary: [Udacity UD585](https://www.udacity.com/course/computer-networking--ud436)
+
    - Projects:
      - [] HTTP server implementation
      - [] Network protocol analyzer
@@ -183,6 +212,7 @@
 
 2. **Security Fundamentals**
    - [] Primary: CompTIA Security+ materials
+
    - Projects:
      - [] Security analysis tool
      - [] Encryption implementation
@@ -191,7 +221,10 @@
 ### Semester 2
 #### Theory & Practice
 1. **Theory of Computation**
-   - [] Primary: OSSU recommended course
+   - [] Primary: [OSSU recommended course](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)[Alernative](http://aduni.org/courses/theory/index.php?view=cw)
+   - [] Primary: [Computational Geometry](https://www.edx.org/course/computational-geometry)
+   - [] Secondary: [Game Theory](https://www.coursera.org/learn/game-theory-1)
+
    - Projects:
      - [] Finite automata simulator
      - [] Regular expression engine
@@ -202,11 +235,28 @@
    - [] Lab exercises
    - [] Security tools familiarization
 
+3. **Advanced Information Security**
+   - [] [Web Security Fundamentals](https://www.edx.org/course/web-security-fundamentals)
+   - [] [Security Governance & Compliance](https://www.coursera.org/learn/security-governance-compliance)
+   - [] [Digital Forensics Concepts](https://www.coursera.org/learn/digital-forensics-concepts)
+   - [] [Secure Software Development: Requirements, Design, and Reuse](https://www.edx.org/course/secure-software-development-requirements-design-and-reuse)
+   - [] [Secure Software Development: Implementation](https://www.edx.org/course/secure-software-development-implementation)
+   - [] [Secure Software Development: Verification and More Specialized Topics](https://www.edx.org/course/secure-software-development-verification-and-more-specialized-topics)
+
 ## Year 4: Specialization
 ### Semester 1
 #### Advanced Topics
 1. **Programming Languages**
-   - [] Primary: Programming Languages course (Part A, B, C)
+   - [] [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)
+   - [] [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b)
+   - [] [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)
+   - [] [Parallel Programming](https://www.coursera.org/learn/scala-parallel-programming)
+   - [] [Compilers](https://www.edx.org/course/compilers)
+   - [] [Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/)
+   - [] [Learn Prolog Now!](https://www.let.rug.nl/bos/lpn//lpnpage.php?pageid=online)[Alernative](https://github.com/ossu/computer-science/files/6085884/lpn.pdf)
+   - [] [Software Debugging](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkxK63TiT88oEe-AIBhr96A)
+   - [] [Software Testing](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g)
+
    - Projects:
      - [] Language interpreter
      - [] Type checker
@@ -217,67 +267,113 @@
    - [] Vulnerability assessment practice
    - [] Report writing
 
+3. **Advanced Math**
+   - [] [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+   - [] [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
+   - [] [Introduction to Numerical Methods](https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/index.htm)
+   - [] [Introduction to Formal Logic](https://forallx.openlogicproject.org/)
+   - [] [Probability](https://projects.iq.harvard.edu/stat110/home)
+
+4. **Advanced Systems**
+   - [] [Computation Structures 1: Digital Circuits](https://learning.edx.org/course/course-v1:MITx+6.004.1x_3+3T2016)[Alternative](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/)[Alernative](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2009/)
+   - [] [Computation Structures 2: Computer Architecture](https://learning.edx.org/course/course-v1:MITx+6.004.2x+3T2015)
+   - [] [Computation Structures 3: Computer Organization](https://learning.edx.org/course/course-v1:MITx+6.004.3x_2+1T2017)
+
 ### Semester 2
 #### Capstone & Career
+
 1. **Final Projects**
-   - [] Full-stack application
-   - [] Systems programming project
-   - [] Security analysis project
+
+Part of learning is doing.
+The assignments and exams for each course are to prepare you to use your knowledge to solve real-world problems.
+
+After you've completed Core CS and the parts of Advanced CS relevant to you,
+you should identify a problem that you can solve using the knowledge you've acquired.
+You can create something entirely new, or you can improve some tool/program that you use and wish were better.
+
+Students who would like more guidance in creating a project may choose to use a series of project oriented courses.
+Here is a sample of options
+(many more are available, at this point you should be capable of identifying a series that is interesting and relevant to you):
+
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Fullstack Open](https://fullstackopen.com/en/) | 12 weeks | 15 hours/week | programming
+[Modern Robotics (Specialization)](https://www.coursera.org/specializations/modernrobotics) | 26 weeks | 2-5 hours/week | freshman-level physics, linear algebra, calculus, [linear ordinary differential equations](https://www.khanacademy.org/math/differential-equations)
+[Data Mining (Specialization)](https://www.coursera.org/specializations/data-mining) | 30 weeks | 2-5 hours/week | machine learning
+[Big Data (Specialization)](https://www.coursera.org/specializations/big-data) | 30 weeks | 3-5 hours/week | none
+[Internet of Things (Specialization)](https://www.coursera.org/specializations/internet-of-things) | 30 weeks | 1-5 hours/week | strong programming
+[Cloud Computing (Specialization)](https://www.coursera.org/specializations/cloud-computing) | 30 weeks | 2-6 hours/week | C++ programming
+[Data Science (Specialization)](https://www.coursera.org/specializations/jhu-data-science) | 43 weeks | 1-6 hours/week | none
+[Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala) | 29 weeks | 4-5 hours/week | One year programming experience
+[Game Design and Development with Unity 2020 (Specialization)](https://www.coursera.org/specializations/game-design-and-development) | 6 months | 5 hours/week | programming, interactive design
+
 
 2. **Career Preparation**
    - [] Portfolio development
    - [] Technical interview preparation
    - [] Certification completion
 
+
+
+
+
 ## Project Track Integration
-- [] Each course should include at least 2-3 projects from the project-based learning repository
-- [] Projects should be documented on GitHub
-- [] Code reviews and testing should be part of project completion
+- Each course should include at least 2-3 projects from the project-based learning repository
+- Projects should be documented on GitHub
+- Code reviews and testing should be part of project completion
+
+
+
 
 ## Assessment Methods
 1. **Project Completion**
-   - [] GitHub repository for each project
-   - [] Documentation requirements
-   - [] Test coverage metrics
+   - GitHub repository for each project
+   - Documentation requirements
+   - Test coverage metrics
 
 2. **Knowledge Verification**
-   - [] Course completion certificates
-   - [] Practice exam scores
-   - [] Project evaluations
+   - Course completion certificates
+   - Practice exam scores
+   - Project evaluations
 
 3. **Practical Skills**
-   - [] Security certification exams
-   - [] Programming challenges
-   - [] System design exercises
+   - Security certification exams
+   - Programming challenges
+   - System design exercises
+
 
 ## Tools & Resources
 1. **Development**
-   - [] Git/GitHub
-   - [] VSCode/preferred IDE
-   - [] Language-specific tools
+   - Git/GitHub
+   - VSCode/preferred IDE
+   - Language-specific tools
 
 2. **Security Tools**
-   - [] Kali Linux
-   - [] Security testing tools
-   - [] Network analyzers
+   - Kali Linux
+   - Security testing tools
+   - Network analyzers
 
 3. **Learning Platforms**
-   - [] OSSU recommended platforms
-   - [] Practice environments
-   - [] Online IDEs
+   - OSSU recommended platforms
+   - Practice environments
+   - Online IDEs
+
+
 
 ## Progress Tracking
 1. **GitHub**
-   - [] Repository for curriculum progress
-   - [] Project portfolios
-   - [] Documentation
+   - Repository for curriculum progress
+   - Project portfolios
+   - Documentation
 
 2. **Certifications**
-   - [] Security+ progress
-   - [] PenTest+ progress
-   - [] Course certificates
+   - Security+ progress
+   - PenTest+ progress
+   - Course certificates
+   - CEH
+   - CISSP
 
 3. **Skills Matrix**
-   - [] Technical skills checklist
-   - [] Project completion status
-   - [] Learning objectives tracking
+   - Technical skills checklist
+   - Project completion status
+   - Learning objectives tracking
