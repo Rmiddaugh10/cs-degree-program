@@ -22,6 +22,7 @@
    - [] [Principles of Functional Programming](https://brandonspark.github.io/150/)
    - [] [Parallel & Sequential Algorithms](https://www.diderot.one/courses/121)
    - [] [Functional Data Structures](https://cs.uwaterloo.ca/~plragde/flaneries/FDS/)
+
    - Projects:
      - [] [Space Invaders problem](https://github.com/ossu/spd-starters/blob/main/final/space-invaders-starter.rkt)[Instructions](https://github.com/Rmiddaugh10/computer-science/blob/master/coursepages/spd/space-invaders-instructions.png)[Sample Run](https://www.youtube.com/shorts/wUg3psZl7vM)
      - [] TA solver problem
@@ -30,6 +31,7 @@
      - [] Simple text-based game
      - [] Basic web scraper (Python Projects)
      - [] Parallel & Sequential Algorithms hw/labs [Here](https://github.com/EAirPeter/Labs-15210)[and here](https://github.com/functionalCS/15210labs)
+
    - Resources:
      - [] [Chat for discussions up to Week 6A:](https://discord.gg/RfqAmGJ)
      - [] [Chat for discussions from Week 6B onwards:](https://discord.gg/kczJzpm)
@@ -43,15 +45,17 @@
    - [] [Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/course/)
    - [] [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/course/)
    - [] [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
-   - [] Primary: MIT 6.042J
-   - [] Secondary: Carnegie Mellon 15-251
+   - [] Primary: [MIT 6.042J](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
+   - [] Secondary: [Carnegie Mellon 15-251](http://www.cs.cmu.edu/~15251/index.html)
+
    - Projects:
      - [] Algorithm visualization tool
      - [] Discrete math calculator
 
 3. **Programming Fundamentals**
-   - [] Primary: Harvard CS50x
-   - [] Secondary: Stanford CS106a
+   - [] Primary: [Harvard CS50x](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+   - [] Secondary: [UC Berkeley CS61A](https://cs61a.org/)
+
    - Projects:
      - [] Build your own interpreter
      - [] Simple shell implementation in C
@@ -61,7 +65,8 @@
 #### Systems & Data
 
 1. **Data Structures**
-   - [] Primary: UC Berkeley CS61B
+   - [] Primary: [UC Berkeley CS61B](https://inst.eecs.berkeley.edu/~cs61b/archives.html)
+
    - Projects:
      - [] Custom data structure implementation
      - [] Binary search tree visualizer
@@ -70,6 +75,7 @@
 2. **Computer Architecture**
    - [] Primary: [Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)](https://www.coursera.org/learn/build-a-computer)
    - [] Primary: [Build a Modern Computer from First Principles: Nand to Tetris Part II (project-centered course)](https://www.coursera.org/learn/nand2tetris2)
+
    - Projects:
      - [] Build a computer from Nand gates
      - [] Assembly language exercises
@@ -90,6 +96,9 @@
    - [] [xv6](https://github.com/mit-pdos/xv6-public)
    - [] [Computer Systems: A Programmer's Perspective course][I](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6e410255-3858-4e85-89c7-812c5845d197)[II](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fc93c499-8fc9-4652-9a99-711058054afb)[III](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2994255f-923b-4ad4-8fb4-5def7fd802cd)[IV](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=03308c94-fc20-40d8-8978-1a9b81c344ed)[V](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3f0bf9ca-d640-4798-b91a-73aed656a10a)[Linking](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0aef84fc-a53b-49c6-bb43-14cb2b175249)
    - [] [Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)
+   - [] [UC Berkeley CS162 Youtube](https://www.youtube.com/playlist?list=PL3A5075EC94726781&feature=plcp)
+   - [] [UC Berkeley CS162 Course Pages](https://inst.eecs.berkeley.edu/~cs162/archives.html)
+   - [] [MIT 6.828](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-837-computer-graphics-fall-2012/)
 
    - Projects:
      - [] Bomb Lab: [Wrteup](http://csapp.cs.cmu.edu/3e/bomblab.pdf)[Self-Study Handout](https://csapp.cs.cmu.edu/3e/bomb.tar)
@@ -97,6 +106,7 @@
      - [] Unix shell implementation
      - [] Memory management system
      - [] File system implementation
+
    - Resources:
      - [] [Book](https://pages.cs.wisc.edu/~remzi/OSTEP/)
      - [] [Homework](https://pages.cs.wisc.edu/~remzi/OSTEP/Homework/homework.html) [Source Code Repo](https://github.com/remzi-arpacidusseau/ostep-homework) [Solutions](https://github.com/xxyzz/ostep-hw)
@@ -111,17 +121,38 @@
    - [] [Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures)
    - [] [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy)
    - [] [Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete)
+   - [] [Stanford Coursera](https://www.coursera.org/course/algo)
+   - [] [Prineton Coursera](https://www.coursera.org/course/algs4partI)
+   - [] [Udacity CS215](https://www.udacity.com/course/intro-to-algorithms--cs215)
+
    - Projects:
      - [] Path-finding visualizer
      - [] Sorting algorithm visualizer
      - [] Graph algorithm implementation
 
 3. **Databases**
-   - [] Primary: Stanford DB course
+   - [] Primary: [Stanford DB course]()
+   - [] Primary: [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)
+   - [] Primary: [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)
+   - [] Primary: [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)
+   - [] Primary: [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)
+   - [] Primary: [Software Engineering: Introduction](https://www.edx.org/learn/software-engineering/university-of-british-columbia-software-engineering-introduction)
+   - [] Primary: []
+
    - Projects:
      - [] SQL query engine
      - [] Simple DBMS
      - [] Data analysis tool
+
+4. **Computer Graphics**
+   - [] Primary: [MIT 6.837](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-837-computer-graphics-fall-2012/)
+   - [] Primary: [UC San Diego edX](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x)
+   - [] Primary: [OSSU Computer Graphics](https://www.edx.org/course/computer-graphics-2)[Alertnative](https://cseweb.ucsd.edu/~viscomp/classes/cse167/wi22/schedule.html)
+
+5. **Core Ethics**
+   - [] Primary: [Ethics, Technology and Engineering](https://www.coursera.org/learn/ethics-technology-engineering)
+   - [] Primary: [Introduction to Intellectual Property](https://www.coursera.org/learn/introduction-intellectual-property)
+   - [] Primary: [Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy)
 
 ### Semester 2
 #### Software Engineering & Web
