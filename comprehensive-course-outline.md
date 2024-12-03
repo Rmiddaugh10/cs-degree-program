@@ -21,7 +21,7 @@
 #### Core Theory
 
 1. **Introduction to Computer Science**
-   - [] [Primary: OSSU - Introduction to Programming using Python (MIT)](https://learning.edx.org/course/course-v1:MITx+6.00.1x+2T2018/block-v1:MITx+6.00.1x+2T2018+type@sequential+block@221a4c17dba341d6a970a0d80343253c/block-v1:MITx+6.00.1x+2T2018+type@vertical+block@2fcf0daa9d1346509ce4954eb3ec1c16)
+   - [ ] [Primary: OSSU - Introduction to Programming using Python (MIT)](https://learning.edx.org/course/course-v1:MITx+6.00.1x+2T2018/block-v1:MITx+6.00.1x+2T2018+type@sequential+block@221a4c17dba341d6a970a0d80343253c/block-v1:MITx+6.00.1x+2T2018+type@vertical+block@2fcf0daa9d1346509ce4954eb3ec1c16)
    - [] [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/weeks/0/)
    - [] [CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2024/weeks/1/)
    - [] [CS50’s Introduction to Cybersecurity](https://cs50.harvard.edu/cybersecurity/2023/weeks/0/)
@@ -35,14 +35,20 @@
    - [] [CompTIA SYO-701 Security+ Training Course Professor Messer](https://www.youtube.com/playlist?list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv)
    - [] [AP®︎/College Computer Science Principles](https://www.khanacademy.org/computing/ap-computer-science-principles)
 
-   - Projects:
-     - [] [Space Invaders problem](https://github.com/ossu/spd-starters/blob/main/final/space-invaders-starter.rkt)[Instructions](https://github.com/Rmiddaugh10/computer-science/blob/master/coursepages/spd/space-invaders-instructions.png)[Sample Run](https://www.youtube.com/shorts/wUg3psZl7vM)
-     - [] TA solver problem
-     - [] Three starter files found [Here](https://github.com/ossu/spd-starters/archive/refs/heads/main.zip)[AndHere](https://github.com/ossu/spd-starters)
-     - [] Command-line calculator (C/C++ Projects)
-     - [] Simple text-based game
-     - [] Basic web scraper (Python Projects)
-     - [] Parallel & Sequential Algorithms hw/labs [Here](https://github.com/EAirPeter/Labs-15210)[and here](https://github.com/functionalCS/15210labs)
+   #### Core Theory Projects
+   - [ ] Command-line calculator (C/C++)
+   - [ ] [Build Your Own Lisp](http://www.buildyourownlisp.com/)
+   - [ ] [Space Invaders Implementation](https://github.com/flightcrank/space-invaders)
+   - [ ] Simple shell implementation
+   - [ ] [Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/)
+   - [ ] [Build Your Own Shell](https://github.com/kamalmarhubi/shell-workshop)
+   - [ ] Basic data structures
+   - [ ] [Write a hash table in C](https://github.com/jamesroutley/write-a-hash-table)
+   - [ ] [Implementing a Key-Value Store](https://github.com/pingcap/talent-plan)
+   - [ ] Python projects
+   - [ ] [Build a web scraper using BeautifulSoup](https://realpython.com/beautiful-soup-web-scraper-python/)
+   - [ ] [Build a Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
+   - [ ] [Text-based adventure game](https://www.pythonforbeginners.com/games/)
 
    - Resources:
      - [] [Chat for discussions up to Week 6A:](https://discord.gg/RfqAmGJ)
@@ -61,18 +67,18 @@
    - [] Secondary: [Carnegie Mellon 15-251](http://www.cs.cmu.edu/~15251/index.html)
    - [] [MIT 6.042J Mathematics for Computer Science](https://www.youtube.com/watch?v=wIq4CssPoO0&list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ)
 
-   - Projects:
-     - [] Algorithm visualization tool
-     - [] Discrete math calculator
+    #### Mathematics Projects
+   - [ ] Algorithm implementations
+   - [ ] [Algorithm visualization tool](https://github.com/algorithm-visualizer/algorithm-visualizer)
+   - [ ] [Discrete math calculator](https://github.com/topics/discrete-mathematics)
+   - [ ] Data visualization
+   - [ ] [D3.js projects](https://github.com/d3/d3/wiki/Gallery)
+   - [ ] [Statistical analysis tool with Python](https://realpython.com/python-statistics/)
 
 3. **Programming Fundamentals**
    - [] Primary: [Harvard CS50x](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
    - [] Secondary: [UC Berkeley CS61A](https://cs61a.org/)
    - [] Secondary: [Programming Languages Theory](https://cs.brown.edu/courses/cs173/2012/OnLine/)
-
-   - Projects:
-     - [] Build your own interpreter
-     - [] Simple shell implementation in C
 
 
 
@@ -83,19 +89,18 @@
 1. **Data Structures**
    - [] Primary: [UC Berkeley CS61B](https://inst.eecs.berkeley.edu/~cs61b/archives.html)
 
-   - Projects:
-     - [] Custom data structure implementation
-     - [] Binary search tree visualizer
-     - [] Database engine from scratch
-
 2. **Computer Architecture**
    - [] Primary: [Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)](https://www.coursera.org/learn/build-a-computer)
    - [] Primary: [Build a Modern Computer from First Principles: Nand to Tetris Part II (project-centered course)](https://www.coursera.org/learn/nand2tetris2)
 
-   - Projects:
-     - [] Build a computer from Nand gates
-     - [] Assembly language exercises
-     - [] Simple virtual machine
+#### Systems & Data Projects
+- [ ] Hardware simulation
+  - [ ] [Build a Modern Computer from First Principles (Nand2Tetris)](https://www.nand2tetris.org/)
+  - [ ] [Write Your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
+- [ ] Data structures implementation
+  - [ ] [Binary search tree with visualizer](https://github.com/topics/binary-search-tree-visualization)
+  - [ ] [Building a Database From Scratch](https://cstack.github.io/db_tutorial/)
+  - [ ] [Memory Allocators 101](https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory)
 
 
 
@@ -120,12 +125,14 @@
    - [] [MIT 6.828](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-837-computer-graphics-fall-2012/)
    - [] [Operating System](https://www.youtube.com/watch?v=vBURTt97EkA&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
 
-   - Projects:
-     - [] Bomb Lab: [Wrteup](http://csapp.cs.cmu.edu/3e/bomblab.pdf)[Self-Study Handout](https://csapp.cs.cmu.edu/3e/bomb.tar)
-     - [] Attack Lab: [Writeup](http://csapp.cs.cmu.edu/3e/attacklab.pdf)[Self-Study Handout](https://csapp.cs.cmu.edu/3e/target1.tar)
-     - [] Unix shell implementation
-     - [] Memory management system
-     - [] File system implementation
+   #### Operating Systems Projects
+   - [ ] Core systems
+   - [ ] [Write a Bootloader](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
+   - [ ] [Linux Container in 500 Lines of Code](https://blog.lizzie.io/linux-containers-in-500-loc.html)
+   - [ ] [Simple file system implementation](https://github.com/psankar/simplefs)
+   - [ ] Memory management
+   - [ ] [Write a simple memory allocator](https://github.com/mtrebi/memory-allocators)
+   - [ ] [Thread scheduler implementation](https://github.com/topics/thread-scheduler)
 
    - Resources:
      - [] [Book](https://pages.cs.wisc.edu/~remzi/OSTEP/)
@@ -145,10 +152,14 @@
    - [] [Prineton Coursera](https://www.coursera.org/course/algs4partI)
    - [] [Udacity CS215](https://www.udacity.com/course/intro-to-algorithms--cs215)
 
-   - Projects:
-     - [] Path-finding visualizer
-     - [] Sorting algorithm visualizer
-     - [] Graph algorithm implementation
+   #### Algorithms Projects
+   - [ ] Visualization tools
+   - [ ] [Path-finding visualizer](https://github.com/topics/pathfinding-visualization)
+   - [ ] [Sorting algorithm visualizer](https://github.com/topics/sorting-visualizer)
+   - [ ] Advanced implementations
+   - [ ] [Graph algorithms](https://github.com/topics/graph-algorithms)
+   - [ ] [Dynamic programming solutions](https://github.com/topics/dynamic-programming)
+
 
 3. **Core Security**
    - [] [Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals)
@@ -156,6 +167,13 @@
    - [] [Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities)
    - [] [Identifying Security Vulnerabilities in C/C++ Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming)
    - [] [Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications)
+
+   #### Security Projects
+   - [ ] Basic security tools
+   - [ ] [Build an encryption system](https://github.com/topics/encryption-algorithms)
+   - [ ] [Network security scanner](https://github.com/topics/network-scanner)
+   - [ ] [Simple intrusion detection system](https://github.com/topics/ids)
+
 
 3. **Databases**
    - [] Primary: [Stanford DB course]()
@@ -165,10 +183,12 @@
    - [] Primary: [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)
    - [] Primary: [Software Engineering: Introduction](https://www.edx.org/learn/software-engineering/university-of-british-columbia-software-engineering-introduction)
 
-   - Projects:
-     - [] SQL query engine
-     - [] Simple DBMS
-     - [] Data analysis tool
+   #### Database Projects
+   - [ ] Database implementations
+   - [ ] [SQL query engine](https://github.com/topics/sql-engine)
+   - [ ] [Simple DBMS](https://github.com/topics/dbms)
+   - [ ] [Build Your Own Redis](https://github.com/codecrafters-io/build-your-own-redis)
+
 
 4. **Computer Graphics**
    - [] Primary: [MIT 6.837](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-837-computer-graphics-fall-2012/)
@@ -191,10 +211,15 @@
    - [] Primary: [Udacity CS253 Intro to Web Development](https://www.udacity.com/course/web-development--cs253)
    - [] Secondary: [Introduction to Embedded Systems and Real-Time Systems](http://cms.cs.ucr.edu/faculty/philip/open_source_courses/CS120B_labs.html)[Or](http://cms.cs.ucr.edu/faculty/philip/open_source_courses/CS122A_labs.html)
 
-   - Projects:
-     - [] Social media clone
-     - [] E-commerce platform
-     - [] Real-time chat application
+   #### Web Development Projects
+   - [ ] Full-stack applications
+   - [ ] [E-commerce platform](https://github.com/topics/ecommerce)
+   - [ ] [Real-time chat application](https://github.com/topics/chat-application)
+   - [ ] [Social media clone](https://github.com/topics/social-network)
+   - [ ] Infrastructure
+   - [ ] [CI/CD pipeline implementation](https://github.com/topics/cicd)
+   - [ ] [Testing framework development](https://github.com/topics/testing-framework)
+
 
 2. **Software Engineering**
    - [] Primary: MIT Software Construction [MIT 1.124J](http://ocw.mit.edu/courses/civil-and-environmental-engineering/1-124j-foundations-of-software-engineering-fall-2000/)
@@ -249,18 +274,21 @@
    - [] Primary: [Stanford Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
    - [] Secondary: [Udacity UD585](https://www.udacity.com/course/computer-networking--ud436)
 
-   - Projects:
-     - [] HTTP server implementation
-     - [] Network protocol analyzer
-     - [] P2P file sharing system
+   #### Networking Projects
+   - [ ] Network programming
+   - [ ] [Build an HTTP server](https://github.com/topics/http-server)
+   - [ ] [Let's Code a TCP/IP Stack](https://github.com/saminiir/level-ip)
+   - [ ] [P2P file sharing system](https://github.com/topics/p2p)
 
-2. **Security Fundamentals**
+
+2. **Advanced Security**
    - [] Primary: CompTIA Security+ materials
 
-   - Projects:
-     - [] Security analysis tool
-     - [] Encryption implementation
-     - [] Network security scanner
+   #### Security Projects
+   - [ ] Advanced security
+   - [ ] [Vulnerability scanner](https://github.com/topics/vulnerability-scanner)
+   - [ ] [Security audit tool](https://github.com/topics/security-audit)
+   - [ ] [Authentication system](https://github.com/topics/authentication)
 
 
 ### Semester 2.
@@ -309,10 +337,12 @@
    - [] [Software Debugging](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkxK63TiT88oEe-AIBhr96A)
    - [] [Software Testing](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g)
 
-   - Projects:
-     - [] Language interpreter
-     - [] Type checker
-     - [] Mini compiler
+   #### Programming Languages Projects
+   - [ ] Language implementation
+   - [ ] [Write a Regular Expression Engine](https://github.com/topics/regex-engine)
+   - [ ] [Build Your Own Programming Language](https://craftinginterpreters.com/)
+   - [ ] [Simple compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
+
 
 2. **CompTIA PenTest+ Preparation**
 - [] [CompTIA SYO-701 Security+ Training Course Professor Messer](https://www.youtube.com/playlist?list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv)
@@ -334,6 +364,31 @@
    - [] [Computation Structures 2: Computer Architecture](https://learning.edx.org/course/course-v1:MITx+6.004.2x+3T2015)
    - [] [Computation Structures 3: Computer Organization](https://learning.edx.org/course/course-v1:MITx+6.004.3x_2+1T2017)
 
+#### Choose Specialization Track
+
+##### Machine Learning Track
+   - [ ] ML implementations
+   - [ ] [CNN for image classification](https://github.com/topics/cnn)
+   - [ ] [Natural language processing system](https://github.com/topics/nlp)
+   - [ ] [Recommendation system](https://github.com/topics/recommender-system)
+
+##### Game Development Track
+   - [ ] Game programming
+   - [ ] [2D game engine](https://github.com/topics/2d-game-engine)
+   - [ ] [Multiplayer game server](https://github.com/topics/game-server)
+   - [ ] [Physics engine](https://github.com/topics/physics-engine)
+
+##### Mobile Development Track
+   - [ ] Mobile applications
+   - [ ] [Cross-platform mobile app](https://github.com/topics/cross-platform)
+   - [ ] [Location-based service app](https://github.com/topics/location-based)
+   - [ ] [Push notification system](https://github.com/topics/push-notifications)
+
+##### Systems Programming Track
+   - [ ] Systems tools
+   - [ ] [Write a garbage collector](https://github.com/topics/garbage-collector)
+   - [ ] [Build a debugger](https://github.com/topics/debugger)
+   - [ ] [Write an OS from Scratch](https://github.com/cfenollosa/os-tutorial)
 
 
 ### Semester 2
@@ -372,16 +427,23 @@ Courses | Duration | Effort | Prerequisites
    - [] Certification completion
 
 
+#### Capstone Project Options
+   - [ ] Large-scale applications
+   - [ ] [Distributed system](https://github.com/topics/distributed-systems)
+   - [ ] [Cloud-based application](https://github.com/topics/cloud-application)
+   - [ ] [Enterprise-level application](https://github.com/topics/enterprise)
 
+#### Career Preparation
+   - [ ] Portfolio development
+   - [ ] [Build portfolio website](https://github.com/topics/portfolio-website)
+   - [ ] [Technical blog](https://github.com/topics/tech-blog)
+   - [ ] [Open source contributions](https://github.com/topics/hacktoberfest)
 
 
 ## Project Track Integration
 - Each course should include at least 2-3 projects from the project-based learning repository
 - Projects should be documented on GitHub
 - Code reviews and testing should be part of project completion
-
-
-
 
 ## Assessment Methods
 1. **Project Completion**
@@ -399,7 +461,6 @@ Courses | Duration | Effort | Prerequisites
    - Programming challenges
    - System design exercises
 
-
 ## Tools & Resources
 1. **Development**
    - Git/GitHub
@@ -415,8 +476,6 @@ Courses | Duration | Effort | Prerequisites
    - OSSU recommended platforms
    - Practice environments
    - Online IDEs
-
-
 
 ## Progress Tracking
 1. **GitHub**
