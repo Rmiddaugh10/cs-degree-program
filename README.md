@@ -320,6 +320,186 @@ Courses | Duration | Effort | Prerequisites | Discussion
     - Duration: 8-10 weeks
     - Technologies: C/Java
 
+# Supply Chain Security Specialization Track
+
+## Additional Core Courses
+
+### Supply Chain Security Fundamentals
+- [MIT Supply Chain Security Course](https://www.edx.org/learn/supply-chain-management/massachusetts-institute-of-technology-supply-chain-technology-and-systems) (12 weeks)
+- [CISA Supply Chain Risk Management](https://www.cisa.gov/supply-chain-risk-management) Training
+- [NIST Cybersecurity Supply Chain Risk Management](https://csrc.nist.gov/projects/cyber-supply-chain-risk-management)
+
+### Industry-Specific Security
+- [Logistics and Transportation Security](https://www.sans.org/cyber-security-courses/securing-industrial-control-systems-ics-scada/)
+- [Container Security Fundamentals](https://training.linuxfoundation.org/training/container-security-fundamentals-lfs16x/)
+- [Cloud Security for Supply Chain](https://aws.amazon.com/training/learn-about/security/)
+
+## Enhanced Project Portfolio
+
+### Supply Chain-Focused Projects
+1. **Container Security Monitor**
+   - Duration: 4-6 weeks
+   - Technologies: Python, Docker, Kubernetes
+   - Features:
+     - Container image scanning
+     - Runtime security monitoring
+     - Supply chain dependency verification
+     
+
+2. **Logistics Network Security Scanner**
+   - Duration: 6-8 weeks
+   - Technologies: Python, Network protocols
+   - Features:
+     - Network traffic analysis
+     - Anomaly detection
+     - Threat visualization
+   - Direct application to shipping operations
+
+3. **Supply Chain Access Control System**
+   - Duration: 5-6 weeks
+   - Technologies: Python, RFID, OAuth
+   - Features:
+     - Role-based access control
+     - Authentication logging
+     - Compliance reporting
+
+### Additional Certifications
+
+#### Priority Certifications
+1. **ISC2 Certified in Cybersecurity (CC)**
+   - Entry-level
+   - Duration: 2-3 months
+   - Cost: $249
+   - Perfect starter certification
+
+2. **CompTIA Security+**
+   - Foundation security certification
+   - Duration: 2-3 months
+   - Cost: $370
+   - Widely recognized
+
+3. **CISSP (Long-term goal)**
+   - Advanced security certification
+   - Duration: 6-12 months
+   - Cost: $749
+   - Industry standard for security professionals
+
+#### Supply Chain Specific
+1. **CISA Supply Chain Risk Management Certification**
+   - Focus on government/private sector collaboration
+   - Free through CISA
+
+2. **C-TPAT Security Training**
+   - Customs-Trade Partnership Against Terrorism
+   - Specific to logistics security
+
+## Hands-On Learning Resources
+
+### Labs and Practice Environments
+1. **Supply Chain Security Labs**
+   - [Hack The Box Supply Chain Tracks](https://www.hackthebox.com/)
+   - [PentesterLab Supply Chain Vulnerabilities](https://pentesterlab.com/)
+   - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
+
+2. **Container Security Practice**
+   - [KataKoda Container Security](https://www.katacoda.com/courses/container-security)
+   - [Play with Docker](https://labs.play-with-docker.com/)
+
+### Conferences and Networking
+1. **Security Conferences**
+   - [GSX (Global Security Exchange)](https://www.gsx.org/)
+   - [Transport Security Congress](https://www.transportsecurity-event.com/)
+   - Local BSides Events
+
+2. **Industry Groups**
+   - [ISACA Memphis Chapter](https://engage.isaca.org/memphischapter/home)
+   - [ISC2 Memphis Chapter](https://isc2memphis.org/)
+   - [ISSA Mid-South Chapter](https://midsouthissa.org/)
+
+## Career Development
+
+### Internal Transition Path
+1. **Network with Internal Teams**
+   - Security Operations Center (SOC)
+   - Information Security Team
+   - Supply Chain Technology Group
+
+2. **Internal Projects**
+   - Volunteer for security initiatives
+   - Join security working groups
+   - Contribute to security documentation
+
+3. **Skills Development Timeline**
+   Month 1-3:
+   - Complete ISC2 CC certification
+   - Basic Python programming proficiency
+   - Network security fundamentals
+
+   Month 4-6:
+   - Security+ certification
+   - Container security basics
+   - Web application security
+
+   Month 7-12:
+   - Advanced Python projects
+   - Supply chain security specialization
+   - Start CISSP preparation
+
+### Portfolio Development
+1. **GitHub Projects**
+   - Regular commits to security tools
+   - Documentation of learning journey
+   - Collaboration on open-source projects
+
+2. **Blog/Documentation**
+   - Technical write-ups
+   - Security research findings
+   - Tool development documentation
+
+## Weekly Study Schedule
+
+### Weekday Focus (2-3 hours per day)
+- Monday: Programming Practice
+- Tuesday: Security Theory
+- Wednesday: Lab Work
+- Thursday: Certification Study
+- Friday: Project Development
+
+### Weekend Focus (4-6 hours per day)
+- Saturday: Deep Learning & Projects
+- Sunday: Review & Planning
+
+## Progress Tracking
+
+### Monthly Goals
+- Technical skill development
+- Certification progress
+- Project milestones
+- Networking activities
+
+### Quarterly Review
+- Skills assessment
+- Career progress
+- Certification status
+- Project portfolio review
+
+## Resources by Topic
+
+### Supply Chain Security
+- [NIST SP 800-161](https://csrc.nist.gov/publications/detail/sp/800-161/rev-1/final)
+- [CISA Strategic Principles](https://www.cisa.gov/supply-chain)
+- [ISO 28000 Standards](https://www.iso.org/standard/72140.html)
+
+### Container Security
+- [Docker Security Documentation](https://docs.docker.com/engine/security/)
+- [Kubernetes Security](https://kubernetes.io/docs/concepts/security/)
+- [Red Hat Container Security Guide](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/container_security_guide/index)
+
+### Network Security
+- [Practical Network Security](https://www.coursera.org/learn/network-security-practical)
+- [Wireshark Fundamentals](https://www.wireshark.org/docs/)
+- [Security Onion Documentation](https://docs.securityonion.net/)
+
 ## Year 4: Cybersecurity Specialization
 
 ### Semester 1
