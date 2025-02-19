@@ -45,8 +45,8 @@
 **Due: December 31, 2025 at 5:59 PM CST**
 
 Problems:
-1. [Indoor Voice](https://cs50.harvard.edu/python/2022/psets/0/indoor/)
-2. [Playback Speed](https://cs50.harvard.edu/python/2022/psets/0/playback/)
+1. [Indoor Voice](https://cs50.harvard.edu/python/2022/psets/0/indoor/) [x]
+2. [Playback Speed](https://cs50.harvard.edu/python/2022/psets/0/playback/) [x]
 3. [Making Faces](https://cs50.harvard.edu/python/2022/psets/0/faces/)
 4. [Einstein](https://cs50.harvard.edu/python/2022/psets/0/einstein/)
 5. [Tip Calculator](https://cs50.harvard.edu/python/2022/psets/0/tip/)
