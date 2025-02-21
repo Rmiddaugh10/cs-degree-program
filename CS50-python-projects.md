@@ -55,7 +55,7 @@ Problems:
 **Due: December 31, 2025 at 5:59 PM CST**
 
 Problems:
-1. [Deep Thought](https://cs50.harvard.edu/python/2022/psets/1/deep/)
+1. [Deep Thought](https://cs50.harvard.edu/python/2022/psets/1/deep/) [x]
 2. [Home Federal Savings Bank](https://cs50.harvard.edu/python/2022/psets/1/bank/)
 3. [File Extensions](https://cs50.harvard.edu/python/2022/psets/1/extensions/)
 4. [Math Interpreter](https://cs50.harvard.edu/python/2022/psets/1/interpreter/)
