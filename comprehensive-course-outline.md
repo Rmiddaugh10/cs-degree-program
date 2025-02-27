@@ -75,6 +75,7 @@ Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [Build a Modern Computer from First Principles: Nand to Tetris](https://www.coursera.org/learn/build-a-computer) | 6 weeks | 7-13 hours/week | C-like programming | chat
 [Build a Modern Computer Part II](https://www.coursera.org/learn/nand2tetris2) | 6 weeks | 12-18 hours/week | Nand to Tetris Part I | chat
+[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | 2 weeks | 12 hours/week | - | chat
 
 #### Systems Projects
 - [ ] Hardware Simulation
@@ -89,6 +90,8 @@ Courses | Duration | Effort | Prerequisites | Discussion
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [UC Berkeley CS61B](https://inst.eecs.berkeley.edu/~cs61b/archives.html) | 15 weeks | 15-20 hours/week | CS61A | chat
+[Systematic Program Design](https://www.edx.org/professional-certificate/systematic-program-design) | 13 weeks | 8-10 hours/week | none | chat
+[Class-based Program Design](https://www.coursera.org/learn/program-design) | 13 weeks | 5-10 hours/week | Systematic Program Design, High School Math | chat
 
 #### Data Structures Projects
 - [ ] Implementation Projects
@@ -258,6 +261,9 @@ Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [Software Engineering: Introduction](https://www.edx.org/learn/software-engineering/university-of-british-columbia-software-engineering-introduction) | 6 weeks | 8-10 hours/week | Core Programming | chat
 [Full Stack Open](https://fullstackopen.com/en/) | 12 weeks | 15 hours/week | programming | -
+[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 5 weeks | 4-8 hours/week | Systematic Program Design | chat
+[Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | 4-8 hours/week | Programming Languages, Part A | chat
+[Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | 4-8 hours/week | Programming Languages, Part B | chat
 
 #### Web Development Projects
 - [ ] Full Stack Applications
@@ -284,6 +290,13 @@ Courses | Duration | Effort | Prerequisites | Discussion
     - Duration: 4-6 weeks
     - Technologies: C++/Java
 
+#### Core Ethics
+Courses | Duration | Effort | Prerequisites | Discussion
+:-- | :--: | :--: | :--: | :--:
+[Ethics, Technology and Engineering](https://www.coursera.org/learn/ethics-technology-engineering) | 9 weeks | 2 hours/week | none | chat
+[Introduction to Intellectual Property](https://www.coursera.org/learn/introduction-intellectual-property) | 4 weeks | 2 hours/week | none | chat
+[Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy) | 3 weeks | 3 hours/week | none | chat
+
 ## Year 3: Advanced Topics
 
 ### Semester 1
@@ -301,6 +314,12 @@ Courses | Duration | Effort | Prerequisites | Discussion
   - [ ] [TCP/IP Stack Implementation](https://github.com/saminiir/level-ip)
     - Duration: 4-6 weeks
     - Technologies: C
+
+#### Software Architecture and Design
+Courses | Duration | Effort | Prerequisites | Discussion
+:-- | :--: | :--: | :--: | :--:
+[Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design) | 13 weeks | 5-10 hours/week | Class Based Program Design | chat
+[Software Architecture](https://www.coursera.org/learn/software-architecture) | 4 weeks | 2-5 hours/week | Object Oriented Design | chat
 
 ### Semester 2
 
@@ -320,6 +339,12 @@ Courses | Duration | Effort | Prerequisites | Discussion
     - Duration: 8-10 weeks
     - Technologies: C/Java
 
+#### Machine Learning
+Courses | Duration | Effort | Prerequisites | Discussion
+:-- | :--: | :--: | :--: | :--:
+[Machine Learning](https://www.coursera.org/learn/machine-learning) | 11 weeks | 9 hours/week | Basic coding | chat
+[Computer Graphics](https://www.edx.org/course/computer-graphics) | 6 weeks | 12 hours/week | C++ or Java, linear algebra | chat
+
 ## Year 4: Cybersecurity Specialization
 
 ### Semester 1
@@ -331,6 +356,8 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [Security Governance & Compliance](https://www.coursera.org/learn/security-governance-compliance) | 3 weeks | 3 hours/week | none | chat
 [Digital Forensics Concepts](https://www.coursera.org/learn/digital-forensics-concepts) | 3 weeks | 2-3 hours/week | Core Security | chat
 [Secure Software Development: Requirements](https://www.edx.org/course/secure-software-development-requirements-design-and-reuse) | 7 weeks | 1-2 hours/week | Core Programming | chat
+[Secure Software Development: Implementation](https://www.edx.org/course/secure-software-development-implementation) | 7 weeks | 1-2 hours/week | Secure Software Development: Requirements | chat
+[Secure Software Development: Verification](https://www.edx.org/course/secure-software-development-verification-and-more-specialized-topics) | 7 weeks | 1-2 hours/week | Secure Software Development: Implementation | chat
 [Offensive Security Testing](https://www.offensive-security.com/pwk-oscp/) | 12 weeks | 15-20 hours/week | networking, scripting | chat
 
 #### Penetration Testing Projects
@@ -446,6 +473,17 @@ Choose one major security project:
     - [ ] [Threat Intelligence Platform](https://github.com/OpenCTI-Platform/opencti)
     - [ ] [APT Detection System](https://github.com/Neo23x0/sigma)
 
+#### Advanced Mathematics (For Security)
+Courses | Duration | Effort | Prerequisites | Discussion
+:-- | :--: | :--: | :--: | :--:
+[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | high school math | chat
+[Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) | 14 weeks | 12 hours/week | corequisite: Essence of Linear Algebra | chat
+[Introduction to Numerical Methods](https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/) | 14 weeks | 12 hours/week | Linear Algebra | chat
+[Introduction to Formal Logic](https://www.coursera.org/learn/logic-introduction) | 10 weeks | 4-8 hours/week | Set Theory | chat
+[Probability](https://www.edx.org/learn/probability/harvard-university-introduction-to-probability) | 15 weeks | 5-10 hours/week | Differentiation and Integration | chat
+[Cryptography I](https://www.coursera.org/learn/crypto) | 7 weeks | 6-8 hours/week | Probability, programming | -
+[Cryptography II](https://www.coursera.org/learn/crypto2) | 7 weeks | 6-8 hours/week | Cryptography I | -
+
 #### Career Preparation
 - [ ] Build Security Portfolio
   - [ ] [Document Projects Guide](https://www.freecodecamp.org/news/how-to-build-a-developer-portfolio-website/)
@@ -461,12 +499,17 @@ Choose one major security project:
     - [ ] [SANS GIAC Programs](https://www.giac.org/certifications)
     - [ ] [CEH Certification](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
     - [ ] [eLearnSecurity Certifications](https://elearnsecurity.com/product/ecpptv2-certification/)
+    - [ ] [ISC2 Certified in Cybersecurity (CC)](https://www.isc2.org/Certifications/CC)
+    - [ ] [CISSP (Long-term goal)](https://www.isc2.org/Certifications/CISSP)
 
 - [ ] Industry Networking
   - [ ] Security Communities:
     - [OWASP](https://owasp.org/)
     - [Reddit /r/netsec](https://www.reddit.com/r/netsec/)
     - [Hack The Box Community](https://www.hackthebox.com/)
+    - [ISACA Memphis Chapter](https://engage.isaca.org/memphischapter/home)
+    - [ISC2 Memphis Chapter](https://isc2memphis.org/)
+    - [ISSA Mid-South Chapter](https://midsouthissa.org/)
   - [ ] CTF Competitions:
     - [CTFtime](https://ctftime.org/)
     - [PicoCTF](https://picoctf.org/)
@@ -475,6 +518,19 @@ Choose one major security project:
     - [DEF CON](https://defcon.org/)
     - [Black Hat](https://www.blackhat.com/)
     - [BSides Events](http://www.securitybsides.com/)
+    - [GSX (Global Security Exchange)](https://www.gsx.org/)
+    - [Transport Security Congress](https://www.transportsecurity-event.com/)
+    - [Local BSides Events](https://www.securitybsides.com/w/page/12194156/FrontPage)
+
+#### Supply Chain Security Specialization Track
+Courses | Duration | Effort | Prerequisites | Discussion
+:-- | :--: | :--: | :--: | :--:
+[MIT Supply Chain Security Course](https://www.edx.org/learn/supply-chain-management/massachusetts-institute-of-technology-supply-chain-technology-and-systems) | 12 weeks | 8-10 hours/week | None | -
+[CISA Supply Chain Risk Management](https://www.cisa.gov/supply-chain-risk-management) | Self-paced | 5-8 hours/week | None | -
+[NIST Cybersecurity Supply Chain Risk Management](https://csrc.nist.gov/projects/cyber-supply-chain-risk-management) | Self-paced | 5-8 hours/week | None | -
+[Logistics and Transportation Security](https://www.sans.org/cyber-security-courses/securing-industrial-control-systems-ics-scada/) | 6 weeks | 10-12 hours/week | Core Security | -
+[Container Security Fundamentals](https://training.linuxfoundation.org/training/container-security-fundamentals-lfs16x/) | 4 weeks | 6-8 hours/week | Docker basics | -
+[Cloud Security for Supply Chain](https://aws.amazon.com/training/learn-about/security/) | 6 weeks | 8-10 hours/week | Cloud basics | -
 
 #### Additional Resources
 - Bug Bounty Platforms
@@ -498,6 +554,26 @@ Choose one major security project:
   - [Metasploit Framework](https://www.metasploit.com/)
   - [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
 
+## Final Project
+After completing all required coursework, students should complete a comprehensive final project that demonstrates their knowledge and skills in cybersecurity. This project should be substantive and showcase the integration of multiple security domains.
+
+Options include:
+- Complete security assessment of an organization (real or simulated)
+- Development of a comprehensive security tool or framework
+- Advanced research project in a specialized security domain
+- Contributing significantly to an open-source security project
+
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Fullstack Open](https://fullstackopen.com/en/) | 12 weeks | 15 hours/week | programming
+[Modern Robotics (Specialization)](https://www.coursera.org/specializations/modernrobotics) | 26 weeks | 2-5 hours/week | freshman-level physics, linear algebra, calculus, linear ordinary differential equations
+[Data Mining (Specialization)](https://www.coursera.org/specializations/data-mining) | 30 weeks | 2-5 hours/week | machine learning
+[Big Data (Specialization)](https://www.coursera.org/specializations/big-data) | 30 weeks | 3-5 hours/week | none
+[Internet of Things (Specialization)](https://www.coursera.org/specializations/iot) | 30 weeks | 1-5 hours/week | strong programming
+[Cloud Computing (Specialization)](https://www.coursera.org/specializations/cloud-computing) | 30 weeks | 2-6 hours/week | C++ programming
+[Data Science (Specialization)](https://www.coursera.org/specializations/jhu-data-science) | 43 weeks | 1-6 hours/week | none
+[Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala) | 29 weeks | 4-5 hours/week | One year programming experience
+[Game Design and Development with Unity 2020 (Specialization)](https://www.coursera.org/specializations/game-design-and-development) | 6 months | 5 hours/week | programming, interactive design
 
 ## Project Track Integration
 - Each course should include at least 2-3 projects from the project-based learning repository
