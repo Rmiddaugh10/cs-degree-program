@@ -54,9 +54,9 @@ This curriculum has a specialized focus on cybersecurity, including:
 ## Progress Updates
 
 I regularly update my progress in the [progress-tracker.md](progress-tracker.md) file. Current status:
-- Completed: [Brief summary of completed items]
-- In Progress: [Current focus areas]
-- Upcoming: [Next planned courses/projects]
+- Completed: 
+- In Progress: CS50 Intro to programming with Python
+- Upcoming: 
 
 ## Acknowledgements
 
@@ -72,4 +72,3 @@ All personal notes and implementations are shared under [MIT License](LICENSE). 
 
 ---
 
-*Last Updated: [Current Date]*
