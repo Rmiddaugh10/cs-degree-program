@@ -27,12 +27,20 @@ Courses | Duration | Effort | Prerequisites | Discussion
 
 ### Semester 1
 
+### Computer Science History
+Courses | Duration | Effort | Prerequisites | Discussion
+:-- | :--: | :--: | :--: | :--:
+[The Development of the C Language](https://csapp.cs.cmu.edu/3e/docs/chistory.html) | self-paced | 2-3 hours | none | chat
+[Term-Level Verification of a Pipelined CISC Microprocessor](https://www.cs.cmu.edu/~bryant/pubdir/CMU-CS-05-195.pdf) | self-paced | 4-6 hours | computer architecture | chat
+
 #### Introduction to Programming
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [Introduction to Programming using Python (MIT)](https://learning.edx.org/course/course-v1:MITx+6.00.1x+2T2018) | 9 weeks | 15 hours/week | high school algebra | chat
 [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/) | self-paced | 10-20 hours/week | none | -
 [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/2024/) | 12 weeks | 10-20 hours/week | none | -
+[Structure and Interpretation of Computer Programs (MIT)](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/) | 14 weeks | 10-15 hours/week | basic programming | chat
+[CS 61C: Great Ideas in Computer Architecture (UC Berkeley)](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_) | 15 weeks | 12-15 hours/week | C, data structures | chat
 
 #### Supplementary Programming Projects
 - [ ] Command Line Projects
@@ -75,6 +83,7 @@ Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [Build a Modern Computer from First Principles: Nand to Tetris](https://www.coursera.org/learn/build-a-computer) | 6 weeks | 7-13 hours/week | C-like programming | chat
 [Build a Modern Computer Part II](https://www.coursera.org/learn/nand2tetris2) | 6 weeks | 12-18 hours/week | Nand to Tetris Part I | chat
+[The Elements of Computing Systems (Nand2Tetris)](https://www.nand2tetris.org/) | 12 weeks | 10-15 hours/week | basic programming | chat
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | 2 weeks | 12 hours/week | - | chat
 
 #### Systems Projects
@@ -204,6 +213,8 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/) | 10-12 weeks | 6-10 hours/week | Nand to Tetris II | chat
 [Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) | 8 weeks | 4-12 hours/week | algebra, probability | chat
 [Berkeley CS162](https://inst.eecs.berkeley.edu/~cs162/archives.html) | 15 weeks | 12 hours/week | CS61B | chat
+[Wireshark Labs](https://gaia.cs.umass.edu/kurose_ross/wireshark.php) | 8 weeks | 6-8 hours/week | basic networking | chat
+[CS144: Introduction to Computer Networking (Stanford)](https://www.youtube.com/playlist?list=PLoCMsyE1cvdWKsLVyf6cPwCLDIZnOj0NS) | 15 weeks | 10-12 hours/week | programming, basic networking | chat
 
 #### Operating Systems Projects
 - [ ] Core Systems Implementation
@@ -217,13 +228,18 @@ Courses | Duration | Effort | Prerequisites | Discussion
     - Duration: 2-3 weeks
     - Technologies: C, Linux
 
-#### Algorithms & Data Structures
+#### Algorithms & Data Structures & Mathematics
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [Divide and Conquer, Sorting and Searching](https://www.coursera.org/learn/algorithms-divide-conquer) | 4 weeks | 4-8 hours/week | programming, math | chat
 [Graph Search & Shortest Paths](https://www.coursera.org/learn/algorithms-graphs-data-structures) | 4 weeks | 4-8 hours/week | Divide and Conquer | chat
 [Greedy Algorithms & Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) | 4 weeks | 4-8 hours/week | Graph Search | chat
 [NP-Complete Problems](https://www.coursera.org/learn/algorithms-npcomplete) | 4 weeks | 4-8 hours/week | Greedy Algorithms | chat
+[Analysis of Algorithms Lectures](https://www.youtube.com/playlist?list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx) | 10 weeks | 8-10 hours/week | discrete math, programming | chat
+[Discrete Mathematics](https://cims.nyu.edu/~regev/teaching/discrete_math_fall_2005/dmbook.pdf) | 14 weeks | 8-10 hours/week | high school math | chat
+[Mathematics For Computer Science (MIT)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/video_galleries/video-lectures/) | 13 weeks | 10 hours/week | high school math | chat
+[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | 4 weeks | 4-6 hours/week | high school math | chat
+[Linear Algebra (MIT)](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) | 14 weeks | 12 hours/week | essence of linear algebra | chat
 
 #### Algorithms Projects
 - [ ] Visualization Tools
@@ -274,12 +290,14 @@ Courses | Duration | Effort | Prerequisites | Discussion
     - Duration: 3-4 weeks
     - Technologies: Socket.io, Node.js, React
 
-#### Databases
+#### Databases & Compilers
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory) | 2 weeks | 10 hours/week | programming | chat
 [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql) | 2 weeks | 10 hours/week | programming | chat
 [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data) | 2 weeks | 10 hours/week | programming | chat
+[CS186: Database Systems (Berkeley)](https://www.youtube.com/user/CS186Berkeley/videos) | 12 weeks | 10-12 hours/week | data structures, algorithms | chat
+[Compilers (Stanford)](https://www.edx.org/learn/computer-science/stanford-university-compilers) | 10 weeks | 12-15 hours/week | programming languages | chat
 
 #### Database Projects
 - [ ] Database Implementations
@@ -320,6 +338,12 @@ Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design) | 13 weeks | 5-10 hours/week | Class Based Program Design | chat
 [Software Architecture](https://www.coursera.org/learn/software-architecture) | 4 weeks | 2-5 hours/week | Object Oriented Design | chat
+
+### Distributed Systems
+Courses | Duration | Effort | Prerequisites | Discussion
+:-- | :--: | :--: | :--: | :--:
+[Distributed Systems Lectures](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB) | 12 weeks | 10-12 hours/week | operating systems, networking | chat
+[Distributed Systems Readings](https://dsrg.pdos.csail.mit.edu/papers/) | self-paced | varies | basic distributed systems | chat
 
 ### Semester 2
 
