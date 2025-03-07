@@ -66,6 +66,18 @@ This curriculum draws from several excellent educational resources:
 - Harvard's CS50 courses
 - Various specialized cybersecurity training resources
 
+The curriculum has been enhanced with additional high-quality resources, including:
+
+- MIT's Structure and Interpretation of Computer Programs
+- UC Berkeley's Great Ideas in Computer Architecture
+- Nand2Tetris complete course materials
+- Additional mathematics resources (Linear Algebra, Discrete Mathematics)
+- Computer networking materials from Stanford
+- Database systems from Berkeley
+- Distributed systems lectures and reading materials
+
+All of these resources are free and have been integrated into the appropriate sections in the comprehensive course outline.
+
 ## License
 
 All personal notes and implementations are shared under [MIT License](LICENSE). Referenced materials retain their original licenses.
