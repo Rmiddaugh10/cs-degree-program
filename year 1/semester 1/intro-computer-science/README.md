@@ -8,9 +8,9 @@ Certificate YT Video: Professor Messer - Certificates - CompTIA Security+ SY0-70
 Start Date: [11/27/2024]
 
 ## Progress
-- [ ] Week 1
-- [ ] Week 2
-- [ ] Week 3
-- [ ] Week 4
+- [x] Week 1
+- [x] Week 2
+- [x] Week 3
+- [x] Week 4
 - [ ] Week 5
 - [ ] Week 6
