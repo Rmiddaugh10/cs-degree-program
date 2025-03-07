@@ -39,6 +39,8 @@ A comprehensive self-study curriculum combining OSSU requirements with specializ
 - [ ] [Introduction to Programming using Python (MIT)](https://learning.edx.org/course/course-v1:MITx+6.00.1x+2T2018)
 - [ ] [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/)
 - [ ] [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/2024/)
+- [ ] [Structure and Interpretation of Computer Programs (MIT)](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/)
+- [ ] [CS 61C: Great Ideas in Computer Architecture (UC Berkeley)](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_)
 
 ### Programming Projects
 - [ ] Build Your Own Lisp
@@ -55,6 +57,9 @@ A comprehensive self-study curriculum combining OSSU requirements with specializ
 ### Core Systems
 - [ ] [Build a Modern Computer from First Principles: Nand to Tetris](https://www.coursera.org/learn/build-a-computer)
 - [ ] [Build a Modern Computer Part II](https://www.coursera.org/learn/nand2tetris2)
+- [ ] [The Elements of Computing Systems (Nand2Tetris)](https://www.nand2tetris.org/)
+  - [ ] Part 1: Hardware
+  - [ ] Part 2: Software
 - [ ] [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
 ### Systems Projects
@@ -77,6 +82,8 @@ A comprehensive self-study curriculum combining OSSU requirements with specializ
 ### Operating Systems
 - [ ] [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/)
 - [ ] [Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)
+- [ ] [Wireshark Labs](https://gaia.cs.umass.edu/kurose_ross/wireshark.php)
+- [ ] [CS144: Introduction to Computer Networking (Stanford)](https://www.youtube.com/playlist?list=PLoCMsyE1cvdWKsLVyf6cPwCLDIZnOj0NS)
 - [ ] [Berkeley CS162](https://inst.eecs.berkeley.edu/~cs162/archives.html)
 
 ### Operating Systems Projects
@@ -89,7 +96,12 @@ A comprehensive self-study curriculum combining OSSU requirements with specializ
 - [ ] [Graph Search & Shortest Paths](https://www.coursera.org/learn/algorithms-graphs-data-structures)
 - [ ] [Greedy Algorithms & Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy)
 - [ ] [NP-Complete Problems](https://www.coursera.org/learn/algorithms-npcomplete)
-
+- [ ] [Analysis of Algorithms Lectures](https://www.youtube.com/playlist?list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx)
+- [ ] [Discrete Mathematics](https://cims.nyu.edu/~regev/teaching/discrete_math_fall_2005/dmbook.pdf)
+- [ ] [Mathematics For Computer Science (MIT)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/video_galleries/video-lectures/)
+- [ ] [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [ ] [Linear Algebra (MIT)](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
+      
 ### Algorithms Projects
 - [ ] Path-finding Visualizer
 - [ ] Sorting Visualizer
@@ -121,6 +133,9 @@ A comprehensive self-study curriculum combining OSSU requirements with specializ
 - [ ] [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)
 - [ ] [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)
 - [ ] [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)
+- [ ] [CS186: Database Systems (Berkeley)](https://www.youtube.com/user/CS186Berkeley/videos)
+- [ ] [Compilers (Stanford)](https://www.edx.org/learn/computer-science/stanford-university-compilers)
+
 
 ### Database Projects
 - [ ] Build Your Own Redis
@@ -145,6 +160,10 @@ A comprehensive self-study curriculum combining OSSU requirements with specializ
 ### Software Architecture and Design
 - [ ] [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design)
 - [ ] [Software Architecture](https://www.coursera.org/learn/software-architecture)
+
+### Distributed Systems
+- [ ] [Distributed Systems Lectures](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
+- [ ] [Distributed Systems Readings](https://dsrg.pdos.csail.mit.edu/papers/)
 
 ### Theory of Computation
 - [ ] [Theory of Computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)
