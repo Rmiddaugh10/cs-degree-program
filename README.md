@@ -13,7 +13,10 @@ This repository contains my personalized computer science and cybersecurity curr
 - **[CS50-python-projects.md](CS50-python-projects.md)**: Collection of projects from Harvard's CS50 Python course, with my implementations and notes.
   
 - **[project-based-learning-projects-resources.md](project-based-learning-projects-resources.md)**: Curated list of hands-on programming projects organized by language and technology.
+  
 - **[official-documentation.md](official-documentation.md)**: Curated collection provides links to official documentation for various programming languages.
+  
+- **[command-line-help.md](https://github.com/Rmiddaugh10/cs-degree-program/blob/main/command-line-help.md)**: Curated list of Linux command line tools and tips to help you out if you're new to command line interfaces. 
 
 **The curriculum has been enhanced with additional high-quality resources, including**:
 
