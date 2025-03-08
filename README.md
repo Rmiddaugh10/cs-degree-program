@@ -13,6 +13,7 @@ This repository contains my personalized computer science and cybersecurity curr
 - **[CS50-python-projects.md](CS50-python-projects.md)**: Collection of projects from Harvard's CS50 Python course, with my implementations and notes.
   
 - **[project-based-learning-projects-resources.md](project-based-learning-projects-resources.md)**: Curated list of hands-on programming projects organized by language and technology.
+- **[official-documentation.md](official-documentation.md)**: Curated collection provides links to official documentation for various programming languages.
 
 ## Using This Repository
 
