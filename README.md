@@ -79,7 +79,7 @@ I regularly update my progress in the [progress-tracker.md](progress-tracker.md)
 Here are some more free resources that would complement your curriculum:
 
 ### Comprehensive Resource Collections
-- [Free Programming Books (by Language)]([https://github.com/Rmiddaugh10/cs-degree-program/blob/main/free-programming-books-langs.md) - An extensive collection of free programming books organized by language
+- [Free Programming Books (by Language)]([free-programming-books-langs.md) - An extensive collection of free programming books organized by language
 - [Free Programming Books (by Subject)](free-programming-books-subjects.md) - A collection of programming books organized by subject matter
 - [Other Programming Resources.md](Other%20Programming%20Resources.md) - Curated list of tutorials, interactive courses, and reference materials
 
